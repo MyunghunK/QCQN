@@ -9,6 +9,8 @@ Our research focuses on processing quantum information on a trapped-ion system
 and implementing network protocols in an ion-cavity quantum interface. 
 We also aim to develop a scalable quantum computer via combining advantages of the trapped ions with those of the optical cavities.
 ```
+## Our Google Groups
+[QCQN](https://groups.google.com/forum/?utm_medium=email&utm_source=footer#!forum/qcqn)
 
 Photos
 ------------
@@ -58,7 +60,4 @@ Reversible coherent state transfer between ions and photons
 Implementation of quantum network protocols
 Monitoring and stabilizing a qubit state via weak measurements
 ```
-
-## Our Google Groups
-[QCQN](https://groups.google.com/forum/?utm_medium=email&utm_source=footer#!forum/qcqn)
 
