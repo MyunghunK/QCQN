@@ -85,13 +85,4 @@ We use [SemVer](http://semver.org/) for versioning. For the versions available, 
 
 See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
 
-## temp
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
-
-## temp
-
-* Hat tip to anyone whose code was used
-* Inspiration
-* etc
 
