@@ -19,7 +19,7 @@ Photos
 
 Members
 -------------
-Group leader
+Group leader : Prof. Moonjoo Lee
 
 
 
