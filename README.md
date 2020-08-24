@@ -1,6 +1,10 @@
 # Quantum Computing and Quantum Networks
-Explain what these tests test and why
 
+Welcome!
+
+In our research group we explore quantum information science with trapped ions and optical cavities. 
+
+Our research focuses on processing quantum information on a trapped-ion system, and implementing network protocols in an ion-cavity quantum interface. We also aim to develop a scalable quantum computer via combining advantages of the trapped ions with those of the optical cavities.
 ```
 Give an example
 ```
@@ -12,6 +16,8 @@ Photos
 <img width="200" src="https://user-images.githubusercontent.com/69956236/91005622-4df62c00-e612-11ea-8b45-03eed181c437.png">
 </div>  
 
+Members
+-------------
 
 
 
