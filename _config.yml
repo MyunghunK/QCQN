@@ -45,16 +45,16 @@ url: https://sites.google.com/view/postechquantum/home
 baseurl: /
 
 # Website info
-title: IT Technical Training
-# 자신의 blog title.
+title: QCQN 
+# 
 
 description: 
-# blog home에 표시될 blog에 대한 전반적인 설명.
+# POSTECH Quantum Computing and Quantum Networks
 
 cover: .png
 # blog home에 표시될 blog cover image.
 
-logo:
+logo: https://user-images.githubusercontent.com/69956236/91005622-4df62c00-e612-11ea-8b45-03eed181c437.png
 logo_dark:
 
 favicon: assets/built/images/favicon.jpg
