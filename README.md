@@ -24,9 +24,34 @@ Group leader : Prof. Moonjoo Lee
 ## Research projects
 
 * Quantum information with trapped ions
-* Nanofabrication of quantum computing chips
-* Ion-cavity quantum interface
+```
+We carry out quantum computing and quantum simulation experiments with a string of ions confined in a linear Paul trap. We are interested in the following topics:
 
+Robust control of the ions' internal and external degrees of freedom
+Realization of high-fidelity quantum gates
+Implementation of hybrid quantum-classical algorithms
+Investigation of quantum many-body physics of a spin system
+
+```
+* Nanofabrication of quantum computing chips
+```
+We develop scalable quantum devices using state-of-the-art nanofabrication technologies. Our research group aims to fabricate and characterize:
+
+Scalable ion-trapping chips
+Superconducting qubits with long coherence times
+CMOS-based quantum devices
+Neuromorphic  semiconductor devices
+```
+
+* Ion-cavity quantum interface
+```
+The goal of this project is to develop an ion-based quantum network node with optical cavities. Planned research topics include:
+
+Ion-photon entanglement at high fidelities
+Reversible coherent state transfer between ions and photons
+Implementation of quantum network protocols
+Monitoring and stabilizing a qubit state via weak measurements
+```
 
 ### temp
 
