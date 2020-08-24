@@ -1,1 +1,1 @@
-# QCQN
+# Quantum Computing and Quantum Networks
