@@ -10,7 +10,7 @@ and implementing network protocols in an ion-cavity quantum interface.
 We also aim to develop a scalable quantum computer via combining advantages of the trapped ions with those of the optical cavities.
 ```
 ## Our Google Groups
-[QCQN](https://groups.google.com/forum/?utm_medium=email&utm_source=footer#!forum/qcqn)
+[POSTECH Quantum Computing and Quantum Networks](https://groups.google.com/forum/?utm_medium=email&utm_source=footer#!forum/qcqn)
 
 Photos
 ------------
