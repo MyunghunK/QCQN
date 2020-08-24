@@ -6,7 +6,10 @@ In our research group we explore quantum information science with trapped ions a
 
 Our research focuses on processing quantum information on a trapped-ion system, and implementing network protocols in an ion-cavity quantum interface. We also aim to develop a scalable quantum computer via combining advantages of the trapped ions with those of the optical cavities.
 ```
-Give an example
+Research projects
+-Quantum information with trapped ions
+-Nanofabrication of quantum computing chips
+-Ion-cavity quantum interface
 ```
 
 Photos
@@ -18,6 +21,7 @@ Photos
 
 Members
 -------------
+Group leader
 
 
 
