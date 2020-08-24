@@ -21,7 +21,6 @@ Members
 -------------
 * Group leader : Prof. Moonjoo Lee
 * Doowon lee
-* Taehyun Seo
 * Jungsoo Hong
 * Myunghun Kim
 
