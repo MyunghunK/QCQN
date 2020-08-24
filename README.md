@@ -60,5 +60,5 @@ Monitoring and stabilizing a qubit state via weak measurements
 ```
 
 ## Our Google Groups
-[QCQN]https://groups.google.com/forum/?utm_medium=email&utm_source=footer#!forum/qcqn
+[QCQN](https://groups.google.com/forum/?utm_medium=email&utm_source=footer#!forum/qcqn)
 
