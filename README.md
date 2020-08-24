@@ -59,30 +59,6 @@ Implementation of quantum network protocols
 Monitoring and stabilizing a qubit state via weak measurements
 ```
 
-### temp
-
-Explain what these tests test and why
-
-```
-Give an example
-```
-
-## temp
-
-Add additional notes about how to deploy this on a live system
-
-## temp
-
-Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on our code of conduct, and the process for submitting pull requests to us.
-
-## temp
-
-We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags). 
-
-## temp
-
-* **Billie Thompson** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
-
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
-
+## Our Google Groups
+[QCQN]https://groups.google.com/forum/?utm_medium=email&utm_source=footer#!forum/qcqn
 
