@@ -17,6 +17,7 @@ Photos
 
 <div>
 <img width="200" src="https://user-images.githubusercontent.com/69956236/91005622-4df62c00-e612-11ea-8b45-03eed181c437.png">
+<img width="270" src="https://user-images.githubusercontent.com/69956236/91007517-2b1a4680-e617-11ea-99a5-f3252119fd9b.jpg">
 </div>  
 
 Members
