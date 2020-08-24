@@ -5,6 +5,17 @@ Explain what these tests test and why
 Give an example
 ```
 
+Photos
+------------
+
+<div>
+<img width="200" src="https://user-images.githubusercontent.com/69956236/91005622-4df62c00-e612-11ea-8b45-03eed181c437.png">
+</div>  
+
+
+
+
+
 ### And coding style tests
 
 Explain what these tests test and why
