@@ -24,7 +24,7 @@ Photos
 Members
 -------------
 * Group leader : Prof. Moonjoo Lee
-* Doowon lee
+* Dowon lee
 * Jungsoo Hong
 * Myunghun Kim
 
