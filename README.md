@@ -33,7 +33,9 @@ Members
 
 * Quantum information with trapped ions
 ```
-We carry out quantum computing and quantum simulation experiments with a string of ions confined in a linear Paul trap. 
+We carry out quantum computing and quantum simulation experiments with a string of ions 
+confined in a linear Paul trap. 
+
 We are interested in the following topics:
 
 Robust control of the ions' internal and external degrees of freedom
@@ -55,7 +57,8 @@ Neuromorphic  semiconductor devices
 
 * Ion-cavity quantum interface
 ```
-The goal of this project is to develop an ion-based quantum network node with optical cavities. Planned research topics include:
+The goal of this project is to develop an ion-based quantum network node with optical cavities.
+Planned research topics include:
 
 Ion-photon entanglement at high fidelities
 Reversible coherent state transfer between ions and photons
